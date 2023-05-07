@@ -15,4 +15,4 @@ To run this project, you can either download the files and open the index.html f
 
 ## Live Demo
 
-You can see a live demo of this project here: https://drum-kit-challenge.netlify.app/
+You can see a live demo of this project here: https://danusshkumar.github.io/drum-kit
